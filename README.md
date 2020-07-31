@@ -11,3 +11,7 @@ https://github.com/IamDH4/ttf-wps-fonts
 
 #Es6 fetch template 
 https://gist.github.com/robvolk/99057492b8fd4d7d574bd89e4bde9f3b.js
+
+#link migrate from jquery to vanilla javascript
+
+https://github.com/nefe/You-Dont-Need-jQuery
