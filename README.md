@@ -13,7 +13,8 @@ https://github.com/IamDH4/ttf-wps-fonts
 https://gist.github.com/robvolk/99057492b8fd4d7d574bd89e4bde9f3b
 
 #link migrate from jquery to vanilla javascript
-https://github.com/nefe/You-Dont-Need-jQuery
+* https://github.com/nefe/You-Dont-Need-jQuery
+* https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
 
 #best pratice laravel
 https://github.com/alexeymezenin/laravel-best-practices/blob/master/indonesia.md
