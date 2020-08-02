@@ -18,3 +18,5 @@ https://gist.github.com/robvolk/99057492b8fd4d7d574bd89e4bde9f3b
 
 #best pratice laravel
 https://github.com/alexeymezenin/laravel-best-practices/blob/master/indonesia.md
+
+#git tag versioning release (gitlab,github) https://gist.github.com/yaza-putu/4cd2403baa937fa22fbcbf51b8157aef
