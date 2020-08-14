@@ -22,3 +22,5 @@ https://github.com/alexeymezenin/laravel-best-practices/blob/master/indonesia.md
 #git tag versioning release (gitlab,github) https://gist.github.com/yaza-putu/4cd2403baa937fa22fbcbf51b8157aef
 
 #install postman linux https://gist.github.com/yaza-putu/a9a93235ae2487dea8a90425e76bf900
+
+#dokumentasi opencore https://dortania.github.io/OpenCore-Install-Guide/
