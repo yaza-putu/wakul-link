@@ -24,3 +24,5 @@ https://github.com/alexeymezenin/laravel-best-practices/blob/master/indonesia.md
 #install postman linux https://gist.github.com/yaza-putu/a9a93235ae2487dea8a90425e76bf900
 
 #dokumentasi opencore https://dortania.github.io/OpenCore-Install-Guide/
+<br>
+Video https://youtu.be/Rtihffjxb0w
