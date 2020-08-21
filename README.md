@@ -26,3 +26,5 @@ https://github.com/alexeymezenin/laravel-best-practices/blob/master/indonesia.md
 #dokumentasi opencore https://dortania.github.io/OpenCore-Install-Guide/
 <br>
 Video https://youtu.be/Rtihffjxb0w
+
+#json api spec https://jsonapi.org/
