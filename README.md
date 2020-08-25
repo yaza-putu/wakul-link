@@ -28,3 +28,11 @@ https://github.com/alexeymezenin/laravel-best-practices/blob/master/indonesia.md
 Video https://youtu.be/Rtihffjxb0w
 
 #json api spec https://jsonapi.org/
+
+#vue pre-render 
+<ul>
+  <li>https://markus.oberlehner.net/blog/how-to-pre-render-vue-powered-websites-with-webpack/</li>
+  <li>https://github.com/maoberlehner/how-to-pre-render-vue-powered-websites-with-webpack</li>
+  <li>https://github.com/chrisvfritz/prerender-spa-plugin</li>
+ </ul>
+
