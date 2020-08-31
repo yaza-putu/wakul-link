@@ -36,3 +36,4 @@ Video https://youtu.be/Rtihffjxb0w
   <li>https://github.com/chrisvfritz/prerender-spa-plugin</li>
  </ul>
 
+#httaccess codeigniter https://gist.github.com/keithmorris/3023560
