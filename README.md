@@ -40,4 +40,4 @@ Video https://youtu.be/Rtihffjxb0w
 
 #microtik https://github.com/vulnersCom/mikrot8over
 
-# SMC for lenovo support yoga,ideapad, thinkpad https://github.com/zhen-zen/YogaSMC
+#SMC for lenovo support yoga,ideapad, thinkpad https://github.com/zhen-zen/YogaSMC
