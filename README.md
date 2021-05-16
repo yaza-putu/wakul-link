@@ -43,3 +43,5 @@ Video https://youtu.be/Rtihffjxb0w
 #SMC for lenovo support yoga,ideapad, thinkpad https://github.com/zhen-zen/YogaSMC
 
 #load page without reload in monolitic web app https://github.com/turbolinks/turbolinks
+
+#fix data vuex lose after refresh page with https://github.com/robinvdvleuten/vuex-persistedstate
